@@ -2,7 +2,7 @@
 - 테스트 프레임워크 : Appium, pytest
 - 롯데카드 앱이 홈화면에 있는 상태에서 구동 가능
 
-# 사전설치 1. Apppium
+# 사전설치 1. Appium
 1. Appium 설치 및 실행
 - http://appium.io/docs/en/2.1/quickstart/install/ 참고
 
