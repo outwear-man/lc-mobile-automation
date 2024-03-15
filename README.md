@@ -45,7 +45,7 @@ jenkin + allure 리포트 연동 예정
 ├── Basic
 │   └── appium_setting.py : appium을 통한 모바일 기기 구동
 │   └── common.py : 자주 사용하는 함수 모음
-│   └── config.py : xPath 정리용
+│   └── config.py : xPath or 환경변수 모음
 ├── TestCase
 │   ├── test_01_... :
 │   ├── test_02_... :
