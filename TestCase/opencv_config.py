@@ -1,8 +1,4 @@
-import cv2
-import time, datetime
-import os
-
-from selenium.webdriver.support.wait import WebDriverWait
+from Basic import *
 
 
 #opencv 이미지 만들기
